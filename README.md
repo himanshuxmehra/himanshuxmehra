@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/himanshuxmehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshuxmehra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/himanshuxmehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshuxmehra" height="30" width="40" /></a>
-<a href="https://leetcode.com/himanshuxmehra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="himanshuxmehra" height="30" width="40" /></a>
+<a href="https://twitter.com/himanshuxmehra" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-64.png" alt="himanshuxmehra" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/himanshuxmehra" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-64.png" alt="himanshuxmehra" height="50" width="50" /></a>
+<a href="https://leetcode.com/himanshuxmehra/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_award-64.png" alt="himanshuxmehra" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
