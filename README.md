@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Himanshu Mehra</h1>
-<h3 align="center">Status: Last Seen Exploring Web3 🚀</h3>
+<!--<h3 align="center">Status: Exploring Something 🚀</h3>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuxmehra&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="codydeny" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuxmehra&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" /> </p>
 
 - 🔭 I’m currently working on ...
 
