@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuxmehra&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" /> </p>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working as **Application Engineer 1 @ Cvent**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **Backend Engineering**
 
 - 💬 Ask me about **C+, Python, Django, NodeJS, React.JS, AWS**
 
