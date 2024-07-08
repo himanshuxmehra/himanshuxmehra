@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/himanshuxmehra)
 
-- 📄 Visit My Recent Featured Project [pawntoqueen.fun](https://www.producthunt.com/posts/pawntoqueen)
+- 📄 Visit My Recently Featured Project [pawntoqueen.fun](https://www.producthunt.com/posts/pawntoqueen)
 
 
 <h3 align="left">Connect with me:</h3>
