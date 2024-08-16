@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuxmehra&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" /> </p>
 
+- Visit [home](https://home.halfstackengineer.xyz/)
+
 - 🔭 I’m currently working as **Application Engineer 1 @ Cvent**
 
 - 💬 Ask me about **Backend Development, Node.js, Javascript, C++, React.js, GoLang**
