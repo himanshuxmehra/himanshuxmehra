@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - Visit my [portfolio](https://home.halfstackengineer.xyz/) site.
 - 📫 How to reach me **[halfstackeng](https://x.com/halfstackeng)**
 - <img align="center" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-64.png" alt="himanshuxmehra" height="16" width="16" /> Know about my experiences [LinkedIn](https://linkedin.com/in/himanshuxmehra)
-- 📄 Visit My Recently Featured Project [pawntoqueen.fun](https://www.producthunt.com/posts/pawntoqueen)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuxmehra&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" /> </p>
 
 
